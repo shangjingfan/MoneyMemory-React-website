@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/money-memory-react-website/static/css/main.d64b67e4.chunk.css",
+    "main.js": "/money-memory-react-website/static/js/main.5e066cbc.chunk.js",
+    "main.js.map": "/money-memory-react-website/static/js/main.5e066cbc.chunk.js.map",
+    "runtime-main.js": "/money-memory-react-website/static/js/runtime-main.165280c5.js",
+    "runtime-main.js.map": "/money-memory-react-website/static/js/runtime-main.165280c5.js.map",
+    "static/js/2.e9385b28.chunk.js": "/money-memory-react-website/static/js/2.e9385b28.chunk.js",
+    "static/js/2.e9385b28.chunk.js.map": "/money-memory-react-website/static/js/2.e9385b28.chunk.js.map",
+    "index.html": "/money-memory-react-website/index.html",
+    "static/css/main.d64b67e4.chunk.css.map": "/money-memory-react-website/static/css/main.d64b67e4.chunk.css.map",
+    "static/js/2.e9385b28.chunk.js.LICENSE.txt": "/money-memory-react-website/static/js/2.e9385b28.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.165280c5.js",
+    "static/js/2.e9385b28.chunk.js",
+    "static/css/main.d64b67e4.chunk.css",
+    "static/js/main.5e066cbc.chunk.js"
+  ]
+}
